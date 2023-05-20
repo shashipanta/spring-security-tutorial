@@ -1,0 +1,6 @@
+### Get all the accounts
+GET http://localhost:8080/api/accounts/
+
+
+
+###
